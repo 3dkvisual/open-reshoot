@@ -5,6 +5,8 @@ futuristic…), check the new first frame, and generate the whole shot again in 
 move, same framing, same buildings and lettering. Open weights only, core ComfyUI nodes only, no custom
 nodes, no paid API.
 
+**Demo video:** [YouTube](https://youtu.be/45RNtBm2SVk) · [demo/open_reshoot_demo.mp4](demo/open_reshoot_demo.mp4)
+
 ## The app (one workflow, two steps)
 
 `app/open_reshoot_app.json` — open it in ComfyUI and switch to **App mode**.
